@@ -11,3 +11,8 @@ Rain is the standard library for mizzle. Use the library with this syntax:
 `rain with io`
 Then you can use the output method:
 `rain.output("hi!")`
+
+---
+
+## License
+Mizzle is released under the [Apache 2.0 License](https://github.com/webbrowser11/mizzle/blob/main/LICENSE).
