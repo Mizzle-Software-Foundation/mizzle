@@ -1,3 +1,5 @@
+![a title](https://raw.githubusercontent.com/webbrowser11/mizzle/main/mizzle.png)
+
 # Mizzle
 The compiler/interpreter for the mizzle programming language. Mizzle. Drizzle now. Thunder later.
 
