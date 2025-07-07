@@ -3,3 +3,4 @@ commands = []
 current_command = []
 parsed_commands = []
 parsed_command = []
+mz_file = input("Enter the path to your .mz file: ")
