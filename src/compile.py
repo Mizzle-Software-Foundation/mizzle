@@ -11,8 +11,6 @@ spec.loader.exec_module(mizzle)
 commands_to_compile = parse.parsed_commands()
 file = parse.mz_file()
 
-fileoutput = f"{compileto}{filename}"
-
 with open(file, "w") as f:
     for line in commands_to_compile:
         f.write(line + "\n")
