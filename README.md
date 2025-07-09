@@ -1,4 +1,4 @@
-![a title](https://raw.githubusercontent.com/webbrowser11/mizzle/main/icon.png)
+<center>![a title](https://raw.githubusercontent.com/webbrowser11/mizzle/main/mizzleicon.png)</center>
 
 # Mizzle
 The compiler/interpreter for the mizzle programming language. Mizzle. Drizzle now. Thunder later.
