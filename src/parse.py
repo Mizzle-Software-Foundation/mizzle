@@ -14,4 +14,3 @@ else:
       break
     else:
       continue
-# no i have no idea when i am gonna keep making this.
