@@ -29,4 +29,3 @@ Then you can use the output method:
 
 # License
 Mizzle is released under the [Apache 2.0 License](https://github.com/webbrowser11/mizzle/blob/main/LICENSE).
->>>>>>> 4d1d2d8deaaa3a0b5b40f94f7f631df30a1e1db3
