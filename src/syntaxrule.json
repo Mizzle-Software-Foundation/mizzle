@@ -1,4 +1,37 @@
 [
+<<<<<<< HEAD
+  {"name": "output();", "value": "print()"},
+  {"name": "input();", "value": "input()"},
+  {"name": "int();", "value": "int()"},
+  {"name": "float();", "value": "float()"},
+  {"name": "str();", "value": "str()"},
+  {"name": "bool();", "value": "bool()"},
+  {"name": "list();", "value": "list()"},
+  {"name": "dict();", "value": "dict()"},
+  {"name": "len();", "value": "len()"},
+  {"name": "range();", "value": "range()"},
+  {"name": "abs();", "value": "abs()"},
+  {"name": "max();", "value": "max()"},
+  {"name": "min();", "value": "min()"},
+  {"name": "sum();", "value": "sum()"},
+  {"name": "all();", "value": "all()"},
+  {"name": "any();", "value": "any()"},
+  {"name": "enumerate();", "value": "enumerate()"},
+  {"name": "reversed();", "value": "reversed()"},
+  {"name": "map();", "value": "map()"},
+  {"name": "filter();", "value": "filter()"},
+  {"name": "zip();", "value": "zip()"},
+  {"name": "chr();", "value": "chr()"},
+  {"name": "ord();", "value": "ord()"},
+  {"name": "bin();", "value": "bin()"},
+  {"name": "hex();", "value": "hex()"},
+  {"name": "sorted();", "value": "sorted()"},
+  {"name": "type();", "value": "type()"},
+  {"name": "isinstance();", "value": "isinstance()"},
+  {"name": "open();", "value": "open()"},
+  {"name": "id();", "value": "id()"}
+]
+=======
   {"name": "abs()", "value": "abs()"},
   {"name": "aiter()", "value": "aiter()"},
   {"name": "all()", "value": "all()"},
@@ -71,3 +104,4 @@
   {"name": "zip()", "value": "zip()"},
   {"name": "use()", "value": "import()"}
 ]
+>>>>>>> 4d1d2d8deaaa3a0b5b40f94f7f631df30a1e1db3

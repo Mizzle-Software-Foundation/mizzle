@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
+   Copyright [yyyy] [name of copyright owner]
+=======
    Copyright 2025 Mizzle Software Foundation
+>>>>>>> 4d1d2d8deaaa3a0b5b40f94f7f631df30a1e1db3
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

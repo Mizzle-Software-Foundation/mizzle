@@ -1,0 +1,3 @@
+output("hello boi");
+input("enter something: ");
+output(type(12));
