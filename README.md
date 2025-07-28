@@ -10,9 +10,9 @@ Mizzle is not complete. The dev guide is being worked on. Stay tuned for more mi
 
 # Rain
 Rain is the standard library for mizzle. Use the library with this syntax:
-`rain with io`
+`rain with math`
 Then you can use the output method:
-`rain.output("hi!")`
+`rain.cel(5)`
 
 # License
 Mizzle is released under the [Apache 2.0 License](https://github.com/webbrowser11/mizzle/blob/main/LICENSE).
