@@ -69,5 +69,5 @@
   {"name": "type()", "value": "type()"},
   {"name": "vars()", "value": "vars()"},
   {"name": "zip()", "value": "zip()"},
-  {"name": "__import__()", "value": "__import__()"}
+  {"name": "use()", "value": "import()"}
 ]
