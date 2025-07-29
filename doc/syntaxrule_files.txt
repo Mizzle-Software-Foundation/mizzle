@@ -1,4 +1,0 @@
-Okay, how do the syntax rule files work?
-Well, in the syntaxrule.json file you have to include the command in mizzle, and then the lines that need to be outputted in python. e.g. ["input();", "input()"] we will handle the rest. 
-Unless you are a library, not built in. 
-Then you have to wait till mizzle v1.0 comes out.
