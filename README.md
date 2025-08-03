@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webbrowser11/mizzle/main/mizzleicon.png" alt="image">
+  <img src="https://raw.githubusercontent.com/webbrowser11/mizzle/main/finalicon.png" alt="image">
 </p>
 
 # Mizzle
@@ -18,4 +18,5 @@ It will ask you for a path to a mizzle file.
 Just enter the path to the test file. e.g. `path\to\test\file\mizzle\test.mz`.
 
 # License
+
 Mizzle is released under the [Apache 2.0 License](https://github.com/webbrowser11/mizzle/blob/main/LICENSE).
